@@ -10,7 +10,6 @@ package khangndn.main;
  * @author KHANG NGUYEN
  */
 public class GradeManagement {
-<<<<<<< HEAD
 
     double quiz1, quiz2, asm1, asm2, prac, fin, pre;
 
@@ -95,13 +94,11 @@ public class GradeManagement {
         }
     }
 
-=======
-    public int checkGrade(double quiz1, double quiz2,double asm1, double asm2, double prac, double present, double fin)
-    {
-        if(quiz1==0 || quiz2==0 ||asm1==0 || asm2==0 || prac==0 || present==0 || fin<4 ) return 0;
-        double ave= (quiz1+quiz2+asm1+asm2)*0.05+prac*0.2+ present*0.3+fin*0.3;
-        if(ave>=5) return 1;
-        else return 0;
-    }
->>>>>>> 4914f00aa81aa95d1d4254851210ae9b0534e605
+//    public int checkGrade(double quiz1, double quiz2,double asm1, double asm2, double prac, double present, double fin)
+//    {
+//        if(quiz1==0 || quiz2==0 ||asm1==0 || asm2==0 || prac==0 || present==0 || fin<4 ) return 0;
+//        double ave= (quiz1+quiz2+asm1+asm2)*0.05+prac*0.2+ present*0.3+fin*0.3;
+//        if(ave>=5) return 1;
+//        else return 0;
+//    }
 }

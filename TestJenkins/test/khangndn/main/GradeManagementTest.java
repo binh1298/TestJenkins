@@ -10,10 +10,10 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Duke Izumi
+ * @author User
  */
-public class GradeManagementTest {
-
+public class GradeManagementTest
+{
     public GradeManagementTest() {
     }
 
