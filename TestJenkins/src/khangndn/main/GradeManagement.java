@@ -17,7 +17,7 @@ public class GradeManagement {
     }
 
     public GradeManagement(double quiz1, double quiz2, double asm1, double asm2, double prac, double pre, double fin) {
-        this.quiz1 = quiz1
+        this.quiz1 = quiz1;
         this.quiz2 = quiz2;
         this.asm1 = asm1;
         this.asm2 = asm2;
