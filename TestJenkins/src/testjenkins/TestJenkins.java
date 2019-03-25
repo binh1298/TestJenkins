@@ -15,7 +15,7 @@ public class TestJenkins {
     public static void main(String[] args)
     {
         System.out.println("Hello World");
-		System.out.println("Them dau cham phay dum nha :)")
+		System.out.println("Them dau cham phay dum nha :)");
     }
     
 }
